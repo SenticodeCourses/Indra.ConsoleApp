@@ -1,0 +1,10 @@
+d:\dev\IndraAndCo.CompanyManagement\IndraAndCo.CompanyManagement.App\bin\Debug\IndraAndCo.CompanyManagement.App.exe.config
+d:\dev\IndraAndCo.CompanyManagement\IndraAndCo.CompanyManagement.App\bin\Debug\IndraAndCo.CompanyManagement.App.exe
+d:\dev\IndraAndCo.CompanyManagement\IndraAndCo.CompanyManagement.App\bin\Debug\IndraAndCo.CompanyManagement.App.pdb
+d:\dev\IndraAndCo.CompanyManagement\IndraAndCo.CompanyManagement.App\bin\Debug\IndraAndCo.CompanyManagement.Library.dll
+d:\dev\IndraAndCo.CompanyManagement\IndraAndCo.CompanyManagement.App\bin\Debug\IndraAndCo.CompanyManagement.Library.pdb
+d:\dev\IndraAndCo.CompanyManagement\IndraAndCo.CompanyManagement.App\obj\Debug\IndraAndCo.CompanyManagement.App.csprojAssemblyReference.cache
+d:\dev\IndraAndCo.CompanyManagement\IndraAndCo.CompanyManagement.App\obj\Debug\IndraAndCo.CompanyManagement.App.csproj.CoreCompileInputs.cache
+d:\dev\IndraAndCo.CompanyManagement\IndraAndCo.CompanyManagement.App\obj\Debug\IndraAndCo.CompanyManagement.App.csproj.CopyComplete
+d:\dev\IndraAndCo.CompanyManagement\IndraAndCo.CompanyManagement.App\obj\Debug\IndraAndCo.CompanyManagement.App.exe
+d:\dev\IndraAndCo.CompanyManagement\IndraAndCo.CompanyManagement.App\obj\Debug\IndraAndCo.CompanyManagement.App.pdb

@@ -1,0 +1,6 @@
+d:\dev\IndraAndCo.CompanyManagement\IndraAndCo.CompanyManagement.Library\bin\Debug\IndraAndCo.CompanyManagement.Library.dll
+d:\dev\IndraAndCo.CompanyManagement\IndraAndCo.CompanyManagement.Library\bin\Debug\IndraAndCo.CompanyManagement.Library.pdb
+d:\dev\IndraAndCo.CompanyManagement\IndraAndCo.CompanyManagement.Library\obj\Debug\IndraAndCo.CompanyManagement.Library.csprojAssemblyReference.cache
+d:\dev\IndraAndCo.CompanyManagement\IndraAndCo.CompanyManagement.Library\obj\Debug\IndraAndCo.CompanyManagement.Library.csproj.CoreCompileInputs.cache
+d:\dev\IndraAndCo.CompanyManagement\IndraAndCo.CompanyManagement.Library\obj\Debug\IndraAndCo.CompanyManagement.Library.dll
+d:\dev\IndraAndCo.CompanyManagement\IndraAndCo.CompanyManagement.Library\obj\Debug\IndraAndCo.CompanyManagement.Library.pdb
